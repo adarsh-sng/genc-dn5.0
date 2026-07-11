@@ -1,4 +1,4 @@
-package com.cognizant.apiGateway.filter;
+package com.javagenc.apiGateway.filter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

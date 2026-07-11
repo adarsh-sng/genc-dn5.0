@@ -1,6 +1,6 @@
-package com.cognizant.accountService.controller;
+package com.javagenc.accountService.controller;
 
-import com.cognizant.accountService.model.Account;
+import com.javagenc.accountService.model.Account;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;

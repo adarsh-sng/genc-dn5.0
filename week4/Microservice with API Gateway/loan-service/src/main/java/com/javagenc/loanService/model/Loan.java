@@ -1,4 +1,4 @@
-package com.cognizant.loanService.model;
+package com.javagenc.loanService.model;
 
 public class Loan {
     private String number;

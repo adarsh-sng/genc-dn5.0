@@ -1,4 +1,4 @@
-package com.cognizant.accountService;
+package com.javagenc.accountService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

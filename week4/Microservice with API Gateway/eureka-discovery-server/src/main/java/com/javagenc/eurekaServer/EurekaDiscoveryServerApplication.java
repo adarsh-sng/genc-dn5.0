@@ -1,4 +1,4 @@
-package com.cognizant.eurekaServer;
+package com.javagenc.eurekaServer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

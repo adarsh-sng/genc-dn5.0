@@ -1,4 +1,4 @@
-package com.cognizant.accountService.model;
+package com.javagenc.accountService.model;
 
 public class Account {
     private String number;

@@ -1,4 +1,4 @@
-package com.cognizant.greetService.controller;
+package com.javagenc.greetService.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
